@@ -4,25 +4,23 @@
 
 <p>In order to edit the file, you need to have Code Writer program installed on your system. Just open files in code writer and edit them.</p>
 
-### Features Overview
+## Features Overview
 
-    #### Bootsrap Framework:
-    <p>Bootsrap is the most popular css framework for Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins. </p>
+### Bootsrap Framework:
+<p>Bootsrap is the most popular css framework for Powerful, extensible, and feature-packed frontend toolkit. Build and customize with Sass, utilize prebuilt grid system and components, and bring projects to life with powerful JavaScript plugins. </p>
+    
+### Responsive Layout Design:
+<p>What ever you are using the device your site will run as it should be. Appz React template is fully responsive layout for all type of devices.</p>
     
 
-    #### Responsive Layout Design:
-    <p>What ever you are using the device your site will run as it should be. Appz React template is fully responsive layout for all type of devices.</p>
+### Valid components :
+<p>This template coded with beautiful and clean codes! with some powerful components 100% valid W3 web standards.</p>
     
-
-    #### Valid components :
-    <p>This template coded with beautiful and clean codes! with some powerful components 100% valid W3 web standards.</p>
+### Lucrative Design :
+<p>This Template is designed for any exclusive portfolio website. Which can be motivated your customers to dive in your website.</p>
     
-
-    #### Lucrative Design :
-    <p>This Template is designed for any exclusive portfolio website. Which can be motivated your customers to dive in your website.</p>
     
-
-    #### Touch Friendly :
+### Touch Friendly :
     ✅ Easy browsing on touch devices.
 
 ### Full Features List
